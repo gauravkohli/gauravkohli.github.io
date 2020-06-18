@@ -1,17 +1,17 @@
-title: Derrick Wells – Independent Product Designer
+title: Gaurav Kohli – Cloud Infrastructure Architect
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: Cloud Architect helping companies to deploy, migrate, and run applications on AWS, GCP, and Azure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Gaurav Kohli
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: Cloud Infrastructure Architect
+  bio: Cloud Architect helping companies to deploy, migrate, and run applications on AWS, GCP, and Azure.
+  email: gaurav.in@gmail.com
 
 
 # Contact links
